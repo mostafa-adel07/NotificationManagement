@@ -1,4 +1,4 @@
-# NotificationManagement
+# NotificationManagementAPI
 # Project overview
 
 Typically softwares are NOT one big block of code, that have all the features that the software provides, instead, usually softwares are broken down into sub-systems/sub-components/sub-modules, and these parts are even broken down into even smaller components/classes. 
